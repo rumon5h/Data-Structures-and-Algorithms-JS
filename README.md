@@ -73,3 +73,21 @@
 * Multiple algorithms exist for the same problem and there is no one right solution. Different algorithms work well under different constraints.
 * The same algorithm with the same programming language can be implemented in different ways.
 * When writing programs at work, don't lose sight of the big picture. Rather then write clever code, write code that is simple to read and maintain. 
+
+
+### Array - Big-O
+
+* An array is an ordered collection of values
+* Insert / remove at end - O(1-constant)
+* Insert / remove at beginning (n-linear)
+* Access - O(1)
+* Search - O(n)
+* Push / pop - O(1)
+* Shift / unshift / concat / slice / splice - O (n)
+* forEach / map / filter / reduce - O (n)
+
+
+
+
+
+
