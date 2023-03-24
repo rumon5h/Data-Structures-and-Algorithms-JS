@@ -1,5 +1,7 @@
 # Data-Structures-and-Algorithms-JS
 
+## Algorithms
+
 ### What is an algorithms?
 
 * Ans:- An algorithm is a set of well-defined instructions to particular problem.
@@ -53,3 +55,21 @@
 * 1. Big-O Notation (O-notation) -Worst case complexity.
 * 2. Omega Notatiion ( Omega - Notation) - Best case complexity.
 * 3. The Notation (Theta-notation) - Average case complexity.
+
+### Big-O Notation
+#### The worst case complexity of an algorithm is represented using the Big-O totation.
+
+#### Big-O notation describes the complexity of an algorithm using algebraic terms.
+* It is expressed in terms of the input.
+* It focuses on the bigger picture without getting caught up in the minute details.
+
+### Space complexity
+ 
+* O(1) - Constant
+* O(n) - Linear
+* O(logn) - Logarithmic
+
+### Few points to note
+* Multiple algorithms exist for the same problem and there is no one right solution. Different algorithms work well under different constraints.
+* The same algorithm with the same programming language can be implemented in different ways.
+* When writing programs at work, don't lose sight of the big picture. Rather then write clever code, write code that is simple to read and maintain. 
